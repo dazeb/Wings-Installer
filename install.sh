@@ -61,7 +61,7 @@ HOSTNAME="wings-container"
 PASSWORD="your-password"
 
 # Set the GitHub repository URL and script names
-repo_url="https://raw.githubusercontent.com/your-username/your-repo/main"
+repo_url="https://raw.githubusercontent.com/dazeb/Wings-Installer/main"
 scripts=(
   "install_dependencies.sh"
   "install_wings.sh"
